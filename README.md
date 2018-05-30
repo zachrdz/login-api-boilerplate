@@ -1,6 +1,8 @@
 # login-api-boilerplate
 API containing basic login and signup routes using MongoDB, Express, &amp; Node.
 
+Based off of [Advanced React and Redux tutorial on Udemy](https://www.udemy.com/react-redux-tutorial/), specifically Server Setup - Authentication content.
+
 # Get Started - Dev Env
 1. Go into project folder
 
