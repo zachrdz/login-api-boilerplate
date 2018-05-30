@@ -1,3 +1,10 @@
+# Custom stuff here on top
+config/config.js
+.idea
+
+# All other basic ignores for node
+
+
 # Logs
 logs
 *.log
